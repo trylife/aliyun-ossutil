@@ -13,6 +13,6 @@ RUN chmod +x /bin/test.sh \
 USER root
 
 
-CMD [ "sh", "-c","/bin/ossutil" ]
+CMD [ "sh", "-c","/bin/test.sh" ]
 
 
