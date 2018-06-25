@@ -2,4 +2,4 @@
 
 set -e
 
-echo ${test}
+echo ${aliyun_oss_endpoint}

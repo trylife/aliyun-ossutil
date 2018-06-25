@@ -18,6 +18,6 @@ RUN chmod +x /bin/ossutil.sh \
 USER root
 
 
-# ENTRYPOINT /bin/sh /bin/ossutil.sh
+ENTRYPOINT /bin/sh /bin/ossutil.sh
 
 
